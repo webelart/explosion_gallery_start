@@ -1,0 +1,26 @@
+doctype html
+html(lang="ru") 
+    head
+        meta(charset="utf-8")
+        title Explosion gallery
+        link(rel="stylesheet" href="/css/reset.css")
+        link(rel="stylesheet" href="/css/index.css")
+        link(rel="stylesheet" href="/libs/explosion/css/index.css")
+        script(src="/libs/explosion/js/index.js")
+    body
+        - var images = require(__dirname + "/src/data.json");
+        .page
+            h1.title Explosion gallery
+            .gallery
+                each image in images
+                    .galleryItem
+                        .card
+                            a.cardLink(href=image.src target="_blank" data-title=image.title data-description=image.description)
+                                .cardContent
+                                    h3.cardTitle=image.title
+                                    p.cardDescription=image.description
+                                .cardHover
+                                img.cardImage(src=image.src alt=image.title)
+        script(src="/js/index.js")
+
+

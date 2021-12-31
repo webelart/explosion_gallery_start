@@ -1,0 +1,57 @@
+[
+    {
+        "src": "/images/gallery/1.jpg",
+        "title": "Spider plant",
+        "description": "Pet friendly"
+    },
+    {
+        "src": "/images/gallery/2.jpg",
+        "title": "Pilea Peperomioides",
+        "description": "Ideal for beginners"
+    },
+    {
+        "src": "/images/gallery/3.jpg",
+        "title": "Swiss Cheese Plant",
+        "description": "Toxic to pets"
+    },
+    {
+        "src": "/images/gallery/4.jpg",
+        "title": "The Unkillables plant bundle",
+        "description": "Outdoor plant"
+    },
+    {
+        "src": "/images/gallery/5.jpg",
+        "title": "Pineapple plant",
+        "description": "Indoor plant"
+    },
+    {
+        "src": "/images/gallery/6.jpg",
+        "title": "Rubber plant",
+        "description": "Low light levels"
+    },
+    {
+        "src": "/images/gallery/7.jpg",
+        "title": "Snake plant",
+        "description": "Ideal for beginners"
+    },
+    {
+        "src": "/images/gallery/8.jpg",
+        "title": "ZZ plant",
+        "description": "Low light levels"
+    },
+    {
+        "src": "/images/gallery/9.jpg",
+        "title": "Sansevieria Zeylanica Fan",
+        "description": "Ideal for beginners"
+    },
+    {
+        "src": "/images/gallery/10.jpg",
+        "title": "Swiss Cheese Plant",
+        "description": "Patterned leaves"
+    },
+    {
+        "src": "/images/gallery/11.jpg",
+        "title": "Variegated Rubber plant",
+        "description": "Ideal for beginners"
+    }
+]
